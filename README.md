@@ -7,6 +7,10 @@
 
 > 사람들의 다이어트를 돕기 위한 운동 및 식단의 계획을 세우는 어플리케이션 
 
+### **사용 언어 및 도구**
+
+> Android Studio, Java, Firebase, Github
+
 <br>
 
 ---
